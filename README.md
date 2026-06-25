@@ -9,6 +9,12 @@
 </div>## ☁️ Certification
 
 - AWS Certified Cloud Practitioner
+- ## 💡 What I Do
+
+- Build responsive websites using HTML, CSS, and Bootstrap  
+- Learn and explore cloud computing with AWS  
+- Work on beginner projects to strengthen my development skills  
+- Continuously improve through hands-on practice
 Hi, I'm Ransford Larmie 👋
 
 About Me
