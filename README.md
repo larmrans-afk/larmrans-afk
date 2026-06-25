@@ -2,6 +2,10 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00c6ff&height=180&section=header&text=Ransford%20Larmie&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
+</div><div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&width=500&lines=Cloud+Engineer+in+Progress;AWS+Certified+Cloud+Practitioner;Self-taught+Full-Stack+Developer;Building+real-world+projects)](https://git.io/typing-svg)
+
 </div>Hi, I'm Ransford Larmie 👋
 
 About Me
