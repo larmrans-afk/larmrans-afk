@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00c6ff&height=180&section=header&text=Ransford%20Larmie&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00c6ff&height=180&section=header&text=RANSFORD%20LARMIE Jr&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 </div><div align="center">
 
