@@ -61,3 +61,8 @@ GitHub: https://github.com/larmrans-afk
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larmrans-afk&show_icons=true&theme=tokyonight)
 
 </div>
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=larmrans-afk&theme=tokyonight)
+
+</div>
