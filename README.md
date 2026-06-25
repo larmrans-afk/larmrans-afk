@@ -17,13 +17,13 @@
 - Continuously improve through hands-on practice
 Hi, I'm Ransford Larmie 👋
 
-About Me
+## 👨‍💻 About Me
 
-I am an independent learner passionate about Cloud Computing and Web Development.
+I am an independent learner focused on Cloud Computing and Full-Stack Web Development.
 
-I recently earned the AWS Certified Cloud Practitioner certification and continue to build my technical skills through self-directed learning and hands-on practice.
+I recently earned the AWS Certified Cloud Practitioner certification and continue to grow through consistent self-learning and practical projects.
 
-My long-term goal is to become a Cloud Engineer while also developing strong Full-Stack Web Development skills.
+My goal is to become a Cloud Engineer while building strong skills in modern web development.
 
 🚀 Currently Learning
 
