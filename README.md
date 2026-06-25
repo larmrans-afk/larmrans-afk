@@ -1,4 +1,4 @@
-Hi, I'm Ransford Lamy 👋
+Hi, I'm Ransford Larmie 👋
 
 About Me
 
