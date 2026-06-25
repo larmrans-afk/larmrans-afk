@@ -54,3 +54,10 @@ Projects will be added here as I continue building and documenting my learning j
 📫 Connect With Me
 
 GitHub: https://github.com/larmrans-afk
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larmrans-afk&show_icons=true&theme=tokyonight)
+
+</div>
