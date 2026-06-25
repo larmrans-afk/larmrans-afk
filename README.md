@@ -6,7 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&width=500&lines=Aspiring+Cloud+Engineer+%E2%98%81%EF%B8%8F;AWS+Certified+Cloud+Practitioner;Self-taught+Full-Stack+Developer;Turning+ideas+into+real+systems)](https://git.io/typing-svg)
 
-</div>
+</div>## ☁️ Certification
+
+- AWS Certified Cloud Practitioner
 Hi, I'm Ransford Larmie 👋
 
 About Me
