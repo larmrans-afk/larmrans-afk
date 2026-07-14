@@ -24,7 +24,7 @@ Cloud & Infrastructure
 - Amazon RDS
 - Amazon Bedrock
 - CloudFormation
-  Tools
+Tools
 - Git
 - GitHub
 - VS Code
