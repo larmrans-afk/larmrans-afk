@@ -16,7 +16,7 @@ Projects built while developing my foundation in HTML, CSS, and modern web techn
 Programming Languages
 - Python
 - SQL
-Web Development
+  Web Development
 - HTML
 - CSS
 Cloud & Infrastructure
