@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Ransford Nii Larmie
+# 👨🏽‍💻 Ransford Larmie
 I am a self-taught software developer passionate about building cloud and AI solutions. Through independent learning and hands-on projects, I am developing my skills in Python, backend development, and AWS with the goal of creating impactful technology that improves access to education.
   
 ## 📂 Featured Projects
