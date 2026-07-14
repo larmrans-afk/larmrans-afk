@@ -33,8 +33,7 @@ Projects built while developing my foundation in HTML, CSS, and modern web techn
 - ☁️ **AWS Certified Cloud Practitioner**  
   Amazon Web Services (AWS) — Certified in cloud concepts, AWS services, security, architecture fundamentals, and cloud economics.
 - 🌱 Continuously building practical skills through hands-on AWS projects, software development practice, and independent learning.
+  
   ## 🧠 Learning Journey
-
 I am a self-taught developer who believes in learning through curiosity, consistency, and hands-on practice. My journey started with building a foundation in web technologies, and I am now expanding into Python, databases, cloud computing, and artificial intelligence.
-
 Through continuous learning and real-world projects, I am working towards becoming a well-rounded software developer capable of building impactful technology solutions.
