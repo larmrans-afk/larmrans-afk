@@ -6,7 +6,7 @@ My goal is to become a software developer specializing in cloud computing and ar
 ## 📂 Featured Projects
 I believe the best way to learn is by building. The repositories below document my journey as I continue developing practical skills in cloud computing, artificial intelligence, and web development.
 
-☁️ AWS Cloud Projects | 🤖 AI Application Development | 🌐 Web Development Projects
+**☁️ AWS Cloud Projects** | **🤖 AI Application Development** | **🌐 Web Development Projects**
 
 ➡️ [View All Repositories](https://github.com/repos)
 ## 🛠️ Technical Skills
