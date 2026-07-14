@@ -8,7 +8,7 @@ I believe the best way to learn is by building. The repositories below document 
 
 **☁️ AWS Cloud Projects** | **🤖 AI Application Development** | **🌐 Web Development Projects**
 
-➡️ [View All Repositories](https://github.com/repos)
+→ [View All Repositories](https://github.com/repos)
 ## 🛠️ Technical Skills
 ### Programming Languages
 - Python
