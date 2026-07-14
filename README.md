@@ -28,9 +28,8 @@ Projects built while developing my foundation in HTML, CSS, and modern web techn
 - Git
 - GitHub
 - VS Code
+  
 ## 📜 Certifications & Achievements
-
 - ☁️ **AWS Certified Cloud Practitioner**  
   Amazon Web Services (AWS) — Certified in cloud concepts, AWS services, security, architecture fundamentals, and cloud economics.
-
 - 🌱 Continuously building practical skills through hands-on AWS projects, software development practice, and independent learning.
