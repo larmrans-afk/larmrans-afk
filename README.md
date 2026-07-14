@@ -12,3 +12,19 @@ Hands-on projects exploring AWS infrastructure, networking, databases, and cloud
 Exploring AI solutions using technologies such as Amazon Bedrock and Retrieval-Augmented Generation (RAG).
 ### 🌐 Web Development Projects
 Projects built while developing my foundation in HTML, CSS, and modern web technologies.
+## 🛠️ Technical Skills
+### Programming Languages
+- Python
+- SQL
+### Web Development
+- HTML
+- CSS
+### Cloud & Infrastructure
+- AWS
+- Amazon RDS
+- Amazon Bedrock
+- CloudFormation
+### Tools
+- Git
+- GitHub
+- VS Code
