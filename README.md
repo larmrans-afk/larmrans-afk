@@ -20,11 +20,13 @@ Programming Languages
 Web Development
 - HTML
 - CSS
+
 Cloud & Infrastructure
 - AWS
 - Amazon RDS
 - Amazon Bedrock
 - CloudFormation
+
 Tools
 - Git
 - GitHub
