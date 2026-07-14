@@ -38,3 +38,4 @@ Projects built while developing my foundation in HTML, CSS, and modern web techn
 I am a self-taught developer who believes in learning through curiosity, consistency, and hands-on practice. My journey started with building a foundation in web technologies, and I am now expanding into Python, databases, cloud computing, and artificial intelligence.
 
 Through continuous learning and real-world projects, I am working towards becoming a well-rounded software developer capable of building impactful technology solutions.
+## 📫 Connect With Me
