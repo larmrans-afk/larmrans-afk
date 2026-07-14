@@ -1,5 +1,6 @@
 # Hello, I am Ransford Larmie 👋
 I am a self-taught software developer passionate about building cloud and AI solutions.Through independent learning and hands-on projects, I am developing expertise in Python, backend development, and AWS to create meaningful technology, especially in education.
+##🎯 My Mission
 ## 🚀 Currently Building
 - 🐍 Building Pyhton applications to strengthen my backend development skills.
 - 🗄️ Designing SQL databses for data-driven applications
