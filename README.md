@@ -5,3 +5,10 @@ I am a self-taught software developer passionate about building solutions with c
 - 🗄️ Learning SQL and database fundamentals to design and work with data-driven applications.
 - ☁️ Building hands-on AWS cloud projects to understand cloud infrastructure and architecture.
 - 🌐 Using my foundation in HTML and CSS as I continue growing toward full-stack development.
+## 📂 Featured Projects
+### ☁️ AWS Cloud Projects
+Hands-on projects exploring AWS infrastructure, networking, databases, and cloud architecture.
+### 🤖 AI Application Development
+Exploring AI solutions using technologies such as Amazon Bedrock and Retrieval-Augmented Generation (RAG).
+### 🌐 Web Development Projects
+Projects built while developing my foundation in HTML, CSS, and modern web technologies.
