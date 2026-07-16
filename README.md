@@ -13,7 +13,7 @@ I am a self-taught, aspiring software developer passionate about building cloud 
   
 ### ☁️ Cloud & Infrastructure ###
 
-**Amazon Web Services[AWS]**
+**Amazon Web Services [AWS]**
 ## 📜 Certifications & Achievements
 **☁️ AWS Certified Cloud Practitioner** | Earned the AWS Certified Cloud Practitioner certification, demonstrating a foundational understanding of AWS cloud services, cloud architecture, security, and pricing principles.
   
