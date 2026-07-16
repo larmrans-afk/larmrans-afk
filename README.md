@@ -13,7 +13,7 @@ Python | SQL | HTML | CSS
   
 **☁️ Cloud & Infrastructure**
 
-AWS 
+Amazon Web Services.
 ## 📜 Certifications & Achievements
 ### ☁️ AWS Certified Cloud Practitioner
 - Earned the AWS Certified Cloud Practitioner certification, demonstrating a foundational understanding of AWS cloud services, cloud architecture, security, and pricing principles.
