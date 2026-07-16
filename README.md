@@ -15,5 +15,5 @@ Earned the AWS Certified Cloud Practitioner certification, demonstrating foundat
   
 ## 📫 Connect With Me
 
-  📧 [Email](your-email)
+  📧 [Email](your-email)  | 
    🌐 [View My Portfolio↗](your-link) 
