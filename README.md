@@ -11,6 +11,7 @@ I am a self-taught software developer passionate about building cloud and AI sol
 
 ## 📜 Certifications & Achievements
 **☁️ AWS Certified Cloud Practitioner** | [View Credential↗](https://www.credly.com/badges/cd584b3c-5eb1-44f8-8576-17c646a8f806/public_url)
+Earned the AWS Certified Cloud Practitioner certification, demonstrating foundational knowledge of AWS cloud services, security, architecture & cloud concepts.
   
 ## 📫 Connect With Me
 
