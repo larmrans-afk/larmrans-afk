@@ -4,7 +4,7 @@ I am a self-taught aspiring software developer passionate about building cloud a
 ## 📂 Featured Projects
 **☁️ AWS Cloud Projects** | **🤖 AI Application Development** | **🌐 Web Development Projects**
 
-→ [View All Repositories](https://github.com/repos)
+↗ [View All Repositories](https://github.com/repos)
 
 ## 🛠️ Technical Skills
 
