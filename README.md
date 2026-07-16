@@ -1,5 +1,5 @@
 # 👨🏽‍💻 Ransford Larmie 
-I am a self-taught aspiring software developer passionate about building cloud and AI solutions. Through independent learning and hands-on projects, I am developing my skills to create impactful technology that improves access to education.
+I am a self-taught software developer passionate about building cloud and AI solutions. Through independent learning and hands-on projects, I am developing my skills to create impactful technology that improves access to education.
   
 ## 📂 Featured Projects
 **☁️ AWS Cloud Projects** | **🤖 AI Application Development** | **🌐 Web Development Projects**
