@@ -7,10 +7,10 @@ I am a self-taught, aspiring software developer passionate about building cloud 
 → [View All Repositories](https://github.com/repos)
 
 ## 🛠️ Technical Skills
-### - 💻 Development
-Python | SQL | HTML | CSS
-### ☁️ Cloud & Infrastructure
-AWS 
+**💻 Development**
+- Python | SQL | HTML | CSS
+**☁️ Cloud & Infrastructure**
+- AWS 
 ## 📜 Certifications & Achievements
 ### ☁️ AWS Certified Cloud Practitioner
 - Earned the AWS Certified Cloud Practitioner certification, demonstrating a foundational understanding of AWS cloud services, cloud architecture, security, and pricing principles.
