@@ -14,6 +14,5 @@ I am a self-taught software developer passionate about building cloud and AI sol
 Earned the AWS Certified Cloud Practitioner certification, demonstrating foundational knowledge of AWS cloud services, security, architecture & cloud concepts.
   
 ## 📫 Connect With Me
-
-  📧 [Email](your-email)  | 
+ 
    🌐 [View My Portfolio↗](your-link) 
