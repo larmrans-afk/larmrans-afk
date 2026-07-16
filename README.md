@@ -1,4 +1,4 @@
-# 💻 Ransford Larmie [Email](https://mail.google.com/mail/u/0/?q=diana#inbox)
+# 💻 Ransford Larmie
 I am a self-taught software developer passionate about building cloud and AI solutions. Through independent learning and hands-on projects, I am developing my skills to create impactful technology that improves access to education.
 
 **Learning & building with**
