@@ -5,23 +5,14 @@ I am a self-taught, aspiring software developer passionate about building cloud 
 **☁️ AWS Cloud Projects** | **🤖 AI Application Development** | **🌐 Web Development Projects**
 
 → [View All Repositories](https://github.com/repos)
+
 ## 🛠️ Technical Skills
-### Programming Languages
-- Python
-- SQL
-### Web Development
-- HTML
-- CSS
-### Cloud & Infrastructure
-- AWS
-- Amazon RDS
-- Amazon Bedrock
-- CloudFormation
-### Tools
-- Git
-- GitHub
-- VS Code
- 
+
+### 💻 Development
+Python | SQL | HTML | CSS
+
+### ☁️ Cloud & Infrastructure
+AWS 
 ## 📜 Certifications & Achievements
 - ☁️ **AWS Certified Cloud Practitioner**  
   Amazon Web Services (AWS) — Certified in cloud concepts, AWS services, security, architecture fundamentals, and cloud economics.
