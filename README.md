@@ -7,11 +7,11 @@ I am a self-taught, aspiring software developer passionate about building cloud 
 → [View All Repositories](https://github.com/repos)
 
 ## 🛠️ Technical Skills
-### 💻 Development###
+### 💻 Development ###
 
 **Python** | **SQL** | **HTML** | **CSS**
   
-### ☁️ Cloud & Infrastructure###
+### ☁️ Cloud & Infrastructure ###
 
 **Amazon Web Services[AWS]**
 ## 📜 Certifications & Achievements
