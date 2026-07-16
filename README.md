@@ -10,7 +10,7 @@ I am a self-taught software developer passionate about building cloud and AI sol
 ↗ [View All Repositories](https://github.com/repos)
 
 ## 📜 Certifications & Achievements
-**☁️ AWS Certified Cloud Practitioner** | [View↗](put link here)
+**☁️ AWS Certified Cloud Practitioner** | [View↗] (put link here)
   
 ## 📫 Connect With Me
 
