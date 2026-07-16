@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Helo, I am Ransford Larmie 
+# 👨🏽‍💻 Ransford Larmie 
 I am a self-taught, aspiring software developer passionate about building cloud and AI solutions. Through independent learning and hands-on projects, I am developing my skills in HTML & CSS, Python, backend development, and AWS with the goal of creating impactful technology that improves access to education.
   
 ## 📂 Featured Projects
@@ -13,7 +13,7 @@ I am a self-taught, aspiring software developer passionate about building cloud 
   
 ### ☁️ Cloud & Infrastructure ###
 
-**Amazon Web Services [AWS]**
+**Amazon Web Services**
 ## 📜 Certifications & Achievements
 **☁️ AWS Certified Cloud Practitioner** | Earned the AWS Certified Cloud Practitioner certification, demonstrating a foundational understanding of AWS cloud services, cloud architecture, security, and pricing principles.
   
