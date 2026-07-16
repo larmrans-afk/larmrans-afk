@@ -9,6 +9,7 @@ I am a self-taught, aspiring software developer passionate about building cloud 
 ## 🛠️ Technical Skills
 **💻 Development**
 - Python | SQL | HTML | CSS
+  
 **☁️ Cloud & Infrastructure**
 - AWS 
 ## 📜 Certifications & Achievements
